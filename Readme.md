@@ -6,6 +6,8 @@
 ![RAG](https://img.shields.io/badge/Architecture-RAG-ff69b4)
 ![Streamlit](https://img.shields.io/badge/Frontend-Streamlit-FF4B4B)
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://itce-ai-mentor-bhx6gdcc27rbzpvd8e2xja.streamlit.app)
+
 ## 📖 Project Overview (專案簡介)
 This project implements a **Retrieval-Augmented Generation (RAG)** solution to assist students in preparing for the **International Trade Certified Expert (ITCE)** exam.
 
