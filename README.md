@@ -34,6 +34,7 @@ A specialized **Knowledge-Base System** powered by **Gemini 2.5 Flash** and **FA
 1.  **Clone the repository (複製專案)**
     ```bash
     git clone https://github.com/benji1216/ITCE-AI-Mentor.git
+
     cd ITCE-AI-Mentor
     ```
 
