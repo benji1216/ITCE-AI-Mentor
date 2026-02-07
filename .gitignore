@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.env
+
+# Streamlit secrets (極度重要)
+.streamlit/secrets.toml
+
+# Virtual Environment
+itce_env/
+.venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db.streamlit/secrets.toml
+.env

@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#1a365d"     # 深藍色，展現專業感
+backgroundColor = "#f8f9fa"  # 極簡淺灰背景
+secondaryBackgroundColor = "#ffffff"
+textColor = "#2d3748"
+font = "sans serif"
