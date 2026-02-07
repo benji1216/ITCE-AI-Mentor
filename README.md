@@ -1,4 +1,4 @@
-# ⚖️ ITCE AI Mentor | 國貿大會考智慧導師
+# ⚖️ ITCE AI Mentor | 國貿大會考AI老師
 # High-Precision RAG System for Trade Regulations
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
